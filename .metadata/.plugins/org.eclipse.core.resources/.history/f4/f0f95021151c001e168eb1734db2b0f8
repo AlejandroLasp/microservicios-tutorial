@@ -1,0 +1,12 @@
+package com.moto.service.repositorio;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+public interface MotoRepository extends JpaRepository<Carro, Integer> {
+
+	List<Moto> findByUsuario(int usuarioId);
+
+}

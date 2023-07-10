@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.usuario.service.modelo.Moto.usuarioId&apos; in &apos;com.usuario.service.modelo.Moto&apos;&#x0D;&#x0A;- Original project: &apos;usuario-service&apos;&#x0D;&#x0A;- Original element: &apos;com.usuario.service.modelo.Moto.usuarioId&apos;&#x0D;&#x0A;- Getter method name: &apos;getUsuarioId&apos;&#x0D;&#x0A;- Setter method name: &apos;setUsuarioId&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;usuarioId&apos;" flags="589830" getter="getUsuarioId" id="org.eclipse.jdt.ui.self.encapsulate" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.usuario.service.modelo{Moto.java[Moto^usuarioId" insertion="4" setter="setUsuarioId" stamp="1688994555693" version="1.0" visibility="1"/>
+</session>
